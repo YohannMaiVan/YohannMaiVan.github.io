@@ -1,7 +1,7 @@
 ---
 permalink: index.html
 ---
-#Yohann
+##Yohann
 
 ## Qui suis-je ?
 
@@ -30,3 +30,5 @@ Je suis actuellement en formation chez Simplon parce que je souhaite développer
 Mon projet professionnel à court termes c'est de pouvoir gagner en compétences et responsabilités au sein d'une entreprise. 
 
 Sur du plus long terme je vise à monter ma propre entreprise.
+
+[Me contacter](contact.html)
