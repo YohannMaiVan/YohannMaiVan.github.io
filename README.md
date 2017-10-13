@@ -32,3 +32,4 @@ Mon projet professionnel à court termes c'est de pouvoir gagner en compétences
 Sur du plus long terme je vise à monter ma propre entreprise.
 
 [Me contacter](contact.html)
+https://wireframe.cc/pVQ9jF
