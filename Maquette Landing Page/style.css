@@ -1,0 +1,53 @@
+.color {
+
+ 	color: #808080;
+
+}
+
+
+
+h1 {
+
+	letter-spacing: 2px;
+
+	font-family: inherit; 
+
+}
+
+
+
+.padding {
+text-align: center;
+}
+
+.display{
+
+	padding: 60px;
+
+}
+
+
+
+.ui {
+
+	color: black;
+
+}
+
+
+
+#background {
+
+	background-color: #000000;
+
+	color: grey;
+
+}
+
+
+
+#rechercher {
+
+	display: flex;
+
+}

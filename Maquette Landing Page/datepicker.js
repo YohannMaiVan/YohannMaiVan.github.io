@@ -1,0 +1,1 @@
+$('#date-choser').calendar();
